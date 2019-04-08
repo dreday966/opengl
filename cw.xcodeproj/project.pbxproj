@@ -30,6 +30,7 @@
 		80410166225948A200886F6F /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
 		80410168225948B300886F6F /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		8041016A225A9BF200886F6F /* bun_zipper.ply */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bun_zipper.ply; sourceTree = "<group>"; };
+		8041016D225BB5F400886F6F /* road1.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = road1.bmp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +50,7 @@
 			isa = PBXGroup;
 			children = (
 				8041016A225A9BF200886F6F /* bun_zipper.ply */,
+				8041016D225BB5F400886F6F /* road1.bmp */,
 				8041015D2259488800886F6F /* cw */,
 				8041015C2259488800886F6F /* Products */,
 				80410165225948A200886F6F /* Frameworks */,
